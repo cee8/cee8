@@ -6,9 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7aa37a&random=false&width=435&lines=Hi%2C+I'm+Chris+Beaudoin!;Welcome+to+my+account." alt="Typing SVG" /></a>
 </div>
 
-
-<br>
-
 <img src="https://github.com/cee8/some-chris-images/blob/main/ChrisCodingImage" width=250 height=335 align="right"/>
 <p align="left">
       <h3> My tech stack </h3> </br>
